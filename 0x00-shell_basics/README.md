@@ -5,3 +5,4 @@ The file '3-listfiles' is a script that presents a list of files in a long forma
 The file '4-listmorefiles' is a script that displays a list of files as well as hidden files
 The new file '5-listfilesdigitonly' is another script that list files in long formats, display user and group ids and show hidden files
 The file '6-firstdirectory' is a script that will create a directory in the tmp
+The file '7-movethatfile' will move the file 'betty' from'tmp' to 'tmp/my_first_directory' 
