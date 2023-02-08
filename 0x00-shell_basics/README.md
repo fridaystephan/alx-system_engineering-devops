@@ -7,3 +7,4 @@ The new file '5-listfilesdigitonly' is another script that list files in long fo
 The file '6-firstdirectory' is a script that will create a directory in the tmp
 The file '7-movethatfile' will move the file 'betty' from'tmp' to 'tmp/my_first_directory' 
 The file '8-firstdelete ' will remove the file 'betty' 
+The script '9-firstdirdeletion' will remove the dir 'my_first_directory' in /tmp
