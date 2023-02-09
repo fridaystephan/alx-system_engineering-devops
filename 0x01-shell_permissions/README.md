@@ -11,3 +11,4 @@ The file '8-James_Bond' is a script that gives all permission to other users
 The file '10-mirror_permissions' is a script that sets the mode of the file hello the same as olleh’s mode
 The file '11-directories_permissions' is a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 The script '12-directory_permissions' creates a directory called my_dir with permissions 751 in the working directory.
+The script '13-change_group' changes the group owner to school for the file hello
