@@ -6,3 +6,4 @@ The file '4-empty' creates an empty file 'hello'
 The script '5-execute' adds an execute permission to the file hello
 The script '6-multiple_permissions' will give the owner full control over the file, allow the group owner to read and execute it, but do not allow other users to modify the file in any way.
 The script '7-everybody' adds execution permission to the owner, the group owner and the other users, to the file hello
+The file '8-James_Bond' is a script that gives all permission to other users
