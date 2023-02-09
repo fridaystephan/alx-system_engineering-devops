@@ -13,3 +13,4 @@ The file '11-directories_permissions' is a script that adds execute permission t
 The script '12-directory_permissions' creates a directory called my_dir with permissions 751 in the working directory.
 The script '13-change_group' changes the group owner to school for the file hello
 The script '100-change_owner_and_group' changes the owner and the group owner of _hello to vincent and staff respectively
+The script '101-symbolic_link_permissions' changes the owner and the group owner of _hello to vincent and staff respectively.
