@@ -9,3 +9,4 @@ The script '7-everybody' adds execution permission to the owner, the group owner
 The file '8-James_Bond' is a script that gives all permission to other users
  The script '9-John_Doe' will give full permission to the user, read and execute permission to the group owners, and write and execute permission to other users
 The file '10-mirror_permissions' is a script that sets the mode of the file hello the same as olleh’s mode
+The file '11-directories_permissions' is a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
