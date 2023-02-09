@@ -13,3 +13,4 @@ The script '11-lists' lists all files (even ones with names beginning with a per
 The Script '12-file_type' will run file type in tmp/iamfile
 The script '13-symbolic_link ' creates a symbolic link
 The file '14-copy_html' is a script that copy all html files
+The script '100-lets_move' will move all beginning with an uppercase letter to the directory /tmp/u
