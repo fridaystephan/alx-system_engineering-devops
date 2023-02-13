@@ -5,3 +5,4 @@ The file '2-hellofile' displays the contents of /etc/passwd'
 The script '3-twofiles' display the contents of two directories
 The script '4-lastlines' displays the lines of etc/passwd
 The file '5-firstlines' displays the first ten lines of the file /etc/passwd
+The script  '6-third_line' displays the third line of the file iacta
