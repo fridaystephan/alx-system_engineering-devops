@@ -11,3 +11,4 @@ The script'8-cwd_state' will input ls -la into ls_cwd_content
 The script '9-duplicate_last_line' duplicates the last line
 The script '10-no_more_js' deletes all js files in the current directory
 The script '11-directories' counts the number of directories and sub-directories in the current directory.
+The scrips '12-newest_files' displays the 10 newest files
