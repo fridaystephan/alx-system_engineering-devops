@@ -1,2 +1,2 @@
-#!/bin/basg
-sort | uniq -c
+#!/bin/bash
+sort | uniq -u
