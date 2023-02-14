@@ -21,3 +21,4 @@ The script '14-findthatword' Display lines containing the pattern “root” fro
 19-AZ Replace all characters A and c from input to Z and e respectively.
 20-hiago removes all letters c and C
 21-reverse is a script that reverses its output
+22-users_and_homes displays all users and their home directories, sorted by users.
